@@ -9,17 +9,18 @@
 
   Before starting off, note this:
   <br />
-  This is not a mod or a ROM. It's a patch, an extension to Android itself. It is a work of time that needs to be taken seriously. <br />
-  XASP does what no one has, it gives the word "fluid" a new name, it is yet to make its name. <br />
-  It adds cutting-dge optimalizations, configurations, libraries and applications, while maitaining maximum stability - It is everyting a flagship needs. <br /> 
-  So: Why do you need AOSP ROMs that you are restricted with? <br />
-	  Why do you need mods, modules, when XASP has everything? <br />
-	  Why use anything else? <br />
-	  XASP is here to change. <br />
-  Pixel Experience for AOSP ROMs, behind-the-scenes madness for MIUI ROMs. <br />
-  Level up your experience, get the most out of your baby. <br />
-  Optimal, stable, pure. <br />
-  Welcome to XASP.  <br />
+  THIS IS NOT A MOD OR A ROM. IT'S A PATCH, AN EXTENSION TO ANDROID ITSELF. IT IS A WORK OF TIME THAT NEEDS TO BE TAKEN SERIOUSLY. <BR />
+  XASP DOES WHAT NO ONE HAS, IT GIVES THE WORD "FLUID" A NEW NAME, IT IS YET TO MAKE ITS NAME. <BR />
+  IT ADDS CUTTING-DGE OPTIMALIZATIONS, CONFIGURATIONS, LIBRARIES AND APPLICATIONS, WHILE MAITAINING MAXIMUM STABILITY - IT IS EVERYTING A FLAGSHIP NEEDS. <BR /> 
+  SO: WHY DO YOU NEED AOSP ROMS THAT YOU ARE RESTRICTED WITH? <BR />
+	  WHY DO YOU NEED MODS, MODULES, WHEN XASP HAS EVERYTHING? <BR />
+	  WHY USE ANYTHING ELSE? <BR />
+	  XASP IS HERE TO CHANGE. <BR />
+  PIXEL EXPERIENCE FOR AOSP ROMS, BEHIND-THE-SCENES MADNESS FOR MIUI ROMS. <BR />
+  LEVEL UP YOUR EXPERIENCE, GET THE MOST OUT OF YOUR BABY. <BR />
+  OPTIMAL, STABLE, PURE. <BR />
+  WELCOME TO XASP.  <br />
+  
   
 ##      PATCH REQUIREMENTS
 
@@ -79,6 +80,7 @@ The latest version can be found at: https://sites.google.com/view/miustone/RELEA
   * MOVED MIUI CONFIGS FOR CHOICELESS UNVIERSAL SUPPORT
   * OPTIMIZED UPDATER SCRIPT
   * REMOVED AROMA INSTALLER (OBSOLETE)
+  * UPDATED AND OPTIMIZED WEBSITE AND DOWLOADS
   * UPDATED GOOGLE APPS (XASP GAPPS)
   * UPDATED MAGISK TO 19.2
 
