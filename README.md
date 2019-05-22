@@ -7,62 +7,66 @@
 
 ##      PATCH DESCRIPTION (WORK IN PROGRESS, BEING REWRITTEN)
 
-  Before You Start: This is not a Mod or a ROM! Don't handle it or call it like that. It's a Patch...
-  What You will get from XASP are purely System Optimizations like a Update for existing Android Systems.
-  It does add existing and non existing optimized Configurations, Libs, Apps and everyting what a Flagship needs.
-  Why another AOSP ROM with Restrictions? Why another Mod or Module that gives You just Pieces of anything. Use XASP!
-  Discover the true Pixel Expierence on any AOSP ROM. Upgrade Your Audio/Visual Quality to a Level that goes beyond Stock.
-  Get the optimal Performance in all Conditions. Enjoy great Battery Lifetimes. Unlock unseen Features on all Edges of Android.
-  Unleash Your Snapdragon, give it XASP!
+  Before starting off, note this: 
+  This is not a mod or a ROM. It's a patch, an extension to Android itself. It is a work of time that needs to be taken seriously.
+  XASP does what no one has, it gives the word "fluid" a new name, it is yet to make its name.
+  It adds cutting-dge optimalizations, configurations, libraries and applications, while maitaining maximum stability - It is everyting a flagship needs. 
+  So: Why do you need AOSP ROMs that you are restricted with?
+	  Why do you need mods, modules, when XASP has everything?
+	  Why use anything else?
+	  XASP is here to change.
+  Pixel Experience for AOSP ROMs, behind-the-scenes madness for MIUI ROMs. 
+  Level up your experience, get the most out of your baby.
+  Optimal, stable, pure.
+  Welcome to XASP.
   
 ##      PATCH REQUIREMENTS
 
-##### Android 9.0 / SDK 28 (AOSP/MIUI ARM64)
-##### Snapdragon 835, 845 or 855 (Min. 4GB RAM)
+##### An Android device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
+##### Your device needs to have at least one of the following SoCs: Snapdragon 835, 845 or 855 (Min. 4GB RAM)
 
+##      DOWNLOADS
 
-##      PATCH INSTRUCTIONS
- 
-  * DOWNLOAD A NIGHTLY OR A RELEASE FROM https://sites.google.com/view/miustone/RELEASES
-  * Do a full Wipe in the Orange Fox Recovery (Caches, Data, System)
-  * Install a Android Pie System meeting the Patch Requirements
-  * Install the XASP
-  * Reboot to the System
-  * Done.
+The latest version can be found at: https://sites.google.com/view/miustone/RELEASES (The AROMA installer works for older devices, the AROMA-less one for newer, Mi 9, for example.) 
+
+##      PATCH INSTALLATION INSTRUCTIONS
+
+  * Fully wipe your device in the TWRP Recovery (Dalvik cache, Cache, System, Data.)
+  * Install an Android Pie operating system based off of the supported systems.
+  * Install the XASP Patch without booting the system up.
+  * Reboot.
 
 
 ##      INCLUDED FEATURES
   
-  * ADVANCED APP FUNCTIONALITY / FEATURES
-  * ADVANCED AUDIO RECORDING SERVICES / FEATURES
-  * ADVANCED GRID RECENTS WITH MULTI / SPLIT WINDOW SUPPORT
-  * ADVANCED NETWORK SERVICES / FEATURES
-  * ADVANCED NOISE SUPRESSION SERVICES / FEATURES
-  * ALL DEVICE CONFIGS ADDED AND OPTIMIZED FOR THE HIGHEST QUALITY
+  Note: Differs from OS to OS.
+  
+  * IMRPROVED APP BOOT-UP TIME
+  * SMOOTHS OUT RENDERING TO THE MAXIMUM
+  * BETTER OVERALL PERFORMANCE AND APP RESPONSIVENESS
+  * MAXIMIZED THE AUDIO RECORDING BITRATE
+  * ADVANCED GRID RECENTS WITH MULTI/SPLIT WINDOW SUPPORT
+  * IMRPOVED NETWORK TRAFFIC - BETTER DOWNLOAD SPEEDS AND PAGE LOAD TIMES
   * BATTERY CALIBRATION AFTER EACH CHARGING
-  * BETTER OVERALL PERFORMANCE (UI, APPS, GAMES...)
-  * ENABLES 4K HDR VIDEO PLAYBACK
-  * ENABLES ALL EXISTING PIXEL DEVICE FEATURES
+  * ENABLES 4K HDR VIDEO PLAYBACK - (supported devices only)
+  * ENABLES ALL EXISTING PIXEL DEVICE FEATURES (AOSP ROMs only)
   * ENABLES ANDROID FOR WORK / ENTERPRISE FEATURES
   * ENABLES ANDROID HEARING AID SUPPORT
-  * ENABLES ANDROID NIGHT LIGHT SUPPORT
-  * ENABLES ANDROID VIRTUAL REALITY FEATURES
-  * ENABLES DISPLAY ROTATION FOR THE WHOLE OS
+  * ENABLES ANDROID NIGHT LIGHT SUPPORT (AOSP ROMs only)
+  * ENABLES ANDROID VIRTUAL REALITY FEATURES (supported devices only)
+  * ENABLES DISPLAY ROTATION FOR THE WHOLE OS (differs)
   * ENABLES HD VOLTE / VOWIFI + VIDEO CALLING
-  * ENABLES HIGH QUALITY AUDIO INPUT AND OUTPUT
-  * ENABLES MANY HIDDEN ANDROID FUNCTIONS
-  * ENABLES MANY HIDDEN ANDROID SERVICES
+  * MAKES USE OF MANY HIDDEN ANDROID FUNCTIONALITIES
+  * MAKES USE OF MANY HIDDEN ANDROID SERVICES
   * ENABLES SETUP WIZARD EXTRA FUNCTIONS (WIP)
-  * ENABLES SMOOTHER AND MORE FLUID RENDERING
   * EXTRA DISPLAY SERVICE CONFIGS FOR SUPPORTED DEVICES
   * FILESYSTEM TRIMMING BASED ON TIMERS
-  * FULLY SAFETYNET PASSING / ALL PLAY STORE ARE APPS WORKING
+  * FULL SAFETYNET PASS
   * INTELLIGENT ZIPALIGNMENT TIMERS
-  * MADE AND TESTED WITH / FOR XIAOMI DEVICES
+  * MADE AND TESTED WITH/FOR XIAOMI DEVICES
   * MAGISK STABLE AND BUSYBOX INCLUDED
   * SQLITE3 DATABASE OPTIMIZATIONS
-  * SYSTEM WIDE NETWORK OPTIMIZATIONS
-  * MUCH MORE AND MADE WITH <3 EXPLORE IT YOURSELF!
+  * MANY MORE MISCELLANEOUS BEHIND-THE-SCENES CHANGES, ALL MADE WITH <3
 
 
 ## CHANGELOGS
