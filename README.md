@@ -5,7 +5,7 @@
 <h1 align="center">XIAOMI AOSP SNAPDRAGON PATCH</h1>
 
 
-##      PATCH DESCRIPTION
+##      PATCH DESCRIPTION (WORK IN PROGRESS, BEING REWRITTEN)
 
   Before You Start: This is not a Mod or a ROM! Don't handle it or call it like that. It's a Patch...
   What You will get from XASP are purely System Optimizations like a Update for existing Android Systems.
