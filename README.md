@@ -26,7 +26,7 @@
 
 ##### An Android device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
 ##### Your device needs to have at least one of the following SoCs: Snapdragon 835, 845 or 855
-##### Requires a minimum of 4GB of RAM of maximum smoothness.
+##### Requires a minimum of 4GB of RAM for maximum smoothness.
 
 ##      DOWNLOADS
 
