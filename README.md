@@ -7,18 +7,19 @@
 
 ##      PATCH DESCRIPTION (WORK IN PROGRESS, BEING REWRITTEN)
 
-  Before starting off, note this: 
-  This is not a mod or a ROM. It's a patch, an extension to Android itself. It is a work of time that needs to be taken seriously.
-  XASP does what no one has, it gives the word "fluid" a new name, it is yet to make its name.
-  It adds cutting-dge optimalizations, configurations, libraries and applications, while maitaining maximum stability - It is everyting a flagship needs. 
-  So: Why do you need AOSP ROMs that you are restricted with?
-	  Why do you need mods, modules, when XASP has everything?
-	  Why use anything else?
-	  XASP is here to change.
-  Pixel Experience for AOSP ROMs, behind-the-scenes madness for MIUI ROMs. 
-  Level up your experience, get the most out of your baby.
-  Optimal, stable, pure.
-  Welcome to XASP.
+  Before starting off, note this:
+  <br />
+  This is not a mod or a ROM. It's a patch, an extension to Android itself. It is a work of time that needs to be taken seriously. <br />
+  XASP does what no one has, it gives the word "fluid" a new name, it is yet to make its name. <br />
+  It adds cutting-dge optimalizations, configurations, libraries and applications, while maitaining maximum stability - It is everyting a flagship needs. <br /> 
+  So: Why do you need AOSP ROMs that you are restricted with? <br />
+	  Why do you need mods, modules, when XASP has everything? <br />
+	  Why use anything else? <br />
+	  XASP is here to change. <br />
+  Pixel Experience for AOSP ROMs, behind-the-scenes madness for MIUI ROMs. <br />
+  Level up your experience, get the most out of your baby. <br />
+  Optimal, stable, pure. <br />
+  Welcome to XASP.  <br />
   
 ##      PATCH REQUIREMENTS
 
