@@ -9,7 +9,6 @@
 ##      PATCH DESCRIPTION
 
     Before starting off, note this:
-  <br />
   This is not a mod or a ROM. It's a patch, an extension to the android itself. It is a work of time that needs to be taken seriously. <br />
   XASP does what no one has, it gives the word "fluid" a new name, it is yet to make its name everywhere. <br />
   It adds cutting-edge optimalizations, configurations, libraries and applications, while maintaining maximum stability - it is everything a flagship needs. <br /> 
