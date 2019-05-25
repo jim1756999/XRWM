@@ -1,25 +1,25 @@
-<h1 align="center">AKANE</h1>
+<h1 align="center">XASP</h1>
 <p align="center">
   <img src="https://github.com/Miustone/xasp/blob/master/xasp.png">
 </p>
-<h1 align="center">AKANE - THE PATCH FOR XIAOMI DEVICES</h1>
+<h1 align="center">XIAOMI AOSP SNAPDRAGON PATCH</h1>
 
 * Editor's note: Yes, I know there's plenty of spelling mistakes, and that your head might start to hurt by reading this, I am working on it.
 
 ##      PATCH DESCRIPTION
 
   Before starting off, note this: <br />
-  Akane is not a mod or a ROM. It's a patch, an extension to the Android itself. It is a work of time that needs to be taken seriously. <br />
-  Akane does what no one has, it gives the word "fluid" a new name, it is yet to make its name everywhere. <br />
+  This is not a mod or a ROM. It's a patch, an extension to the android itself. It is a work of time that needs to be taken seriously. <br />
+  XASP does what no one has, it gives the word "fluid" a new name, it is yet to make its name everywhere. <br />
   It adds cutting-edge optimalizations, configurations, libraries and applications, while maintaining maximum stability - it is everything a flagship needs. <br /> 
   So: Why do you restrict yourself with basic AOSP ROMs? <br />
-	  Why do you need mods, modules, when Akane has everything? <br />
+	  Why do you need mods, modules, when XASP has everything? <br />
 	  Why use anything else? <br />
-	  Akane is here to change. <br />
+	  XASP is here to change. <br />
   Pixel Experience for AOSP roms, behind-the-scenes madness for MIUI roms. <br />
   Level up your experience, get the most out of your baby. <br />
   Optimal, stable, pure. <br />
-  Welcome to Akane - the patch for Xiaomi devices.  <br />
+  Welcome to XASP.  <br />
   
   
 ##      PATCH REQUIREMENTS
@@ -36,7 +36,7 @@ The latest version can be found at: https://sites.google.com/view/miustone/RELEA
 
   * Fully wipe your device in the TWRP Recovery (Dalvik cache, Cache, System, Data.)
   * Install an Android Pie operating system based off of the supported systems.
-  * Install Akane without booting the system up.
+  * Install the XASP Patch without booting the system up.
   * Reboot.
 
 
