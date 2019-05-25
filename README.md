@@ -1,10 +1,7 @@
-<h1 align="center">AKANE</h1>
+<h1 align="center">MIUISTONE PRESENTS</h1>
 <p align="center">
   <img src="https://github.com/Miustone/xasp/blob/master/logo_transparent_new.png">
 </p>
-<h1 align="center">AKANE - THE PATCH FOR XIAOMI DEVICES</h1>
-
-* Editor's note: Yes, I know there's plenty of spelling mistakes, and that your head might start to hurt by reading this, I am working on it.
 
 ##      PATCH DESCRIPTION
 
