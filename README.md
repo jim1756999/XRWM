@@ -1,6 +1,6 @@
 <h1 align="center">AKANE</h1>
 <p align="center">
-  <img src="https://github.com/Miustone/xasp/blob/master/logo_transparent.png">
+  <img src="https://github.com/Miustone/xasp/blob/master/logo_transparent_new.png">
 </p>
 <h1 align="center">AKANE - THE PATCH FOR XIAOMI DEVICES</h1>
 
