@@ -1,6 +1,6 @@
 <h1 align="center">MIUISTONE PRESENTS</h1>
 <p align="center">
-  <img src="https://github.com/Miustone/xasp/blob/master/logo_transparent_new.png">
+  <img src="https://github.com/Miustone/akane/blob/master/akane.png">
 </p>
 * Editor's note: Rebranding in progress. <br />
 
