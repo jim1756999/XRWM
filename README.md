@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Miustone/akane/blob/master/akane.png">
 </p>
-
+<h1 align="center">AKANE RWM</h1>
 * Editor's note: Rebranding in Progress. <br />
 
 
