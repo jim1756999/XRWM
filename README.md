@@ -3,7 +3,7 @@
   <img src="https://github.com/Miustone/akane/blob/master/akane.png">
 </p>
 
-* Editor's note: Rebranding in progress. <br />
+* Editor's note: Rebranding in Progress. <br />
 
 
 ##      AKANE RWM DESCRIPTION
@@ -23,15 +23,15 @@
 
 ##      PATCH REQUIREMENTS
 
-##### An Android device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
-##### Your device needs to have at least one of the following SoCs: Snapdragon 835, 845 or 855
-##### Requires a minimum of 4GB of RAM for maximum smoothness.
+##### An Android Device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
+##### Your Device needs to have at least one of the following SoCs: Snapdragon 835 // 845 // 855
+##### Requires a minimum of 4GB of RAM based on the included Multi Tasking Configs
 
 
 ##      DOWNLOADS
 
-  The latest version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
-  (The AROMA installer works for older devices, the AROMA-less one for newer, Mi 9, for example.) 
+  The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
+  (The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for example.) 
 
 
 ##      PATCH INSTALLATION INSTRUCTIONS
