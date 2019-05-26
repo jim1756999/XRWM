@@ -1,9 +1,7 @@
 <h1 align="center">MIUISTONE PRESENTS</h1>
 
 <h1 align="center">THE AKANE RWM</h1>
-<p align="center">
-  <img src="https://github.com/Miustone/akane/blob/master/akane.png">
-</p>
+<p align="center"><img src="https://github.com/Miustone/akane/blob/master/akane.png"></p>
 * Editor's note: Rebranding in Progress. <br />
 
 
