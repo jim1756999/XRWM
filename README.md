@@ -2,33 +2,37 @@
 <p align="center">
   <img src="https://github.com/Miustone/akane/blob/master/akane.png">
 </p>
+
 * Editor's note: Rebranding in progress. <br />
 
-##      PATCH DESCRIPTION
+
+##      AKANE RWM DESCRIPTION
 
   Before starting off, note this: <br />
-  Akane is not a mod or a ROM. It's a patch, an extension to the Android itself. It is a work of time that needs to be taken seriously. <br />
-  Akane does what no one has, it gives the word "fluid" a new name, it is yet to make its name everywhere. <br />
-  It adds cutting-edge optimalizations, configurations, libraries and applications, while maintaining maximum stability - it is everything a flagship needs. <br /> 
-  So: Why do you restrict yourself with basic AOSP ROMs? <br />
-	  Why do you need mods, modules, when Akane has everything? <br />
-	  Why use anything else? <br />
-	  Akane is here to change. <br />
-  Pixel Experience for AOSP roms, behind-the-scenes madness for MIUI roms. <br />
-  Level up your experience, get the most out of your baby. <br />
-  Optimal, stable, pure. <br />
-  Welcome to Akane - the patch for Xiaomi devices.  <br />
+  Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs. <br />
   
-  
+  This Project is aiming on the higest possible Quality in all Edges of a Android OS. Based on Years of research, testing and balancing.
+  RWM is an Extension which can be installed on top of any ROM running on Xiaomi Devices. MIUI or AOSP, Your Choice! Select Your Favorite ROM,
+  flash it together with the Akane RWM and give Your Device a complete overhaul under the UI. We don't give You fancy UI Features or Toggles.
+  We optimize Your Favorite ROM with Your beloved UI and we will take care of the Quality behind the Scenes. You will also explore extra functions
+  in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
+  unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
+#####  and there is always on thing in Mind:  QQ
+                                         QUALCOMM QUALITY
+
+
 ##      PATCH REQUIREMENTS
 
 ##### An Android device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
 ##### Your device needs to have at least one of the following SoCs: Snapdragon 835, 845 or 855
 ##### Requires a minimum of 4GB of RAM for maximum smoothness.
 
+
 ##      DOWNLOADS
 
-The latest version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> (The AROMA installer works for older devices, the AROMA-less one for newer, Mi 9, for example.) 
+  The latest version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
+  (The AROMA installer works for older devices, the AROMA-less one for newer, Mi 9, for example.) 
+
 
 ##      PATCH INSTALLATION INSTRUCTIONS
 
@@ -40,7 +44,7 @@ The latest version can be found at: https://sites.google.com/view/miustone/RELEA
 
 ##      INCLUDED FEATURES
   
-  Note: These differ from OS to OS.
+####  NOTE: Features may depend on the ROM!
   
   * IMPROVED APP BOOT-UP TIME
   * SMOOTHED OUT RENDERING TO THE MAXIMUM
