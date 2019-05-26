@@ -1,38 +1,44 @@
 show_progress(1.00,5);
 set_progress(0.00);
-######################################
-ui_print("-STARTING XASP");
-######################################
+##########################################
+ui_print("-STARTING AKANE RWM INSTALLER");
+##########################################
 run_program("/sbin/sync");
 run_program("/sbin/sleep","1");
-######################################
+##########################################
 ui_print("--PREPARING FILESYSTEMS");
+ifelse(is_mounted("/system"), unmount("/system"));
+package_extract_dir("install", "/tmp/install");
+set_metadata_recursive("/tmp/install", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0644);
+set_metadata_recursive("/tmp/install/bin", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0755);
+mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system", "");
+run_program("/tmp/install/bin/backuptool.sh", "backup", "/system/system");
 set_progress(0.01);
-######################################
+##########################################
 run_program("/sbin/sleep","1");
 run_program("/sbin/busybox","mount","/system");
 run_program("/sbin/busybox","mount","/data");
 run_program("/sbin/busybox","mount","/cache");
 set_progress(0.02);
-######################################
+##########################################
 ui_print("--WIPING FILESYSTEMS");
 set_progress(0.03);
-######################################
+##########################################
 delete_recursive("/cache");
 delete_recursive("/data/cache");
 delete_recursive("/data/dalvik-cache");
 delete_recursive("/data/data");
 set_progress(0.05);
-######################################
+##########################################
 ui_print("--BOOTLOGO ACTIVATION");
 set_progress(0.10);
-######################################
+##########################################
 delete_recursive("/system/media/bootanimation.zip");
 set_progress(0.15);
-######################################
+##########################################
 ui_print("--PREPARING ANDROID");
 set_progress(0.20);
-######################################
+##########################################
 delete_recursive("/system/app/MiuiCompass");
 delete_recursive("/system/app/MiuiVideoPlayer");
 delete_recursive("/system/priv-app/Browser");
@@ -127,31 +133,38 @@ delete_recursive("/system/priv-app/SetupWizard");
 delete_recursive("/system/priv-app/LinageSetupWizard");
 delete_recursive("/system/priv-app/MoKeeSetupWizard");
 set_progress(0.30);
-######################################
+##########################################
 ui_print("--EXTRACTING CONTENT");
 set_progress(0.40);
-######################################
-package_extract_dir("META-INF/com/google/android/xasp/system","/system");
+##########################################
+package_extract_dir("META-INF/com/google/android/akane/system","/system");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/xasp/patch/prop","/tmp");
+package_extract_dir("META-INF/com/google/android/akane/system","/system/system");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/xasp/gapps","/tmp/gapps");
+package_extract_dir("META-INF/com/google/android/akane/patch/prop","/tmp");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/xasp/patch/patch","/tmp/patch");
+package_extract_dir("META-INF/com/google/android/akane/gapps","/tmp/gapps");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/xasp/magisk","/tmp/magisk");
+package_extract_dir("META-INF/com/google/android/akane/patch/patch1","/tmp/patch1");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/xasp/busybox","/tmp/busybox");
+package_extract_dir("META-INF/com/google/android/akane/patch/patch2","/tmp/patch2");
+run_program("/sbin/sleep","3");
+package_extract_dir("META-INF/com/google/android/akane/magisk","/tmp/magisk");
+run_program("/sbin/sleep","3");
+package_extract_dir("META-INF/com/google/android/akane/busybox","/tmp/busybox");
 run_program("/sbin/sleep","3");
 set_progress(0.60);
-######################################
+##########################################
 ui_print("---RUNNING TOOLS");
 set_progress(0.70);
-######################################
+##########################################
 set_progress(0.82);
 run_program("/sbin/sleep","1");
-run_program("/sbin/busybox","unzip","/tmp/patch/patch.zip","META-INF/com/google/android/*","-d","/tmp/patch");
-run_program("/sbin/busybox","sh","/tmp/patch/META-INF/com/google/android/update-binary","dummy","1","/tmp/patch/patch.zip");
+run_program("/sbin/busybox","unzip","/tmp/patch1/patch1.zip","META-INF/com/google/android/*","-d","/tmp/patch1");
+run_program("/sbin/busybox","sh","/tmp/patch1/META-INF/com/google/android/update-binary","dummy","1","/tmp/patch1/patch1.zip");
+run_program("/sbin/sleep","1");
+run_program("/sbin/busybox","unzip","/tmp/patch2/patch2.zip","META-INF/com/google/android/*","-d","/tmp/patch2");
+run_program("/sbin/busybox","sh","/tmp/patch2/META-INF/com/google/android/update-binary","dummy","1","/tmp/patch2/patch2.zip");
 set_progress(0.88);
 run_program("/sbin/sleep","1");
 run_program("/sbin/busybox","unzip","/tmp/magisk/magisk.zip","META-INF/com/google/android/*","-d","/tmp/magisk");
@@ -167,16 +180,18 @@ run_program("/sbin/busybox","sh","/tmp/gapps/META-INF/com/google/android/update-
 set_progress(0.96);
 ######################################
 ui_print("---FILESYSTEM REMOUNTING");
-######################################
+##########################################
 run_program("/sbin/sleep","1");
 run_program("/sbin/busybox","mount","/system");
 run_program("/sbin/busybox","mount","/data");
 run_program("/sbin/busybox","mount","/cache");
+mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system", "");
+run_program("/tmp/install/bin/backuptool.sh", "restore", "/system/system");
 run_program("/sbin/sleep","1");
 set_progress(0.97);
-######################################
+##########################################
 ui_print("---FILESYSTEM TRIMMING");
-######################################
+##########################################
 ui_print("-TRIMMING SYSTEM");
 run_program("/sbin/busybox","fstrim","-v","/system");
 ui_print("-TRIMMING CACHE");
@@ -184,15 +199,16 @@ run_program("/sbin/busybox","fstrim","-v","/cache");
 ui_print("-TRIMMING DATA");
 run_program("/sbin/busybox","fstrim","-v","/data");
 set_progress(0.98);
-######################################
+##########################################
 ui_print("---FILESYSTEM REMOUNTING");
-######################################
+##########################################
 run_program("/sbin/sleep","1");
 ifelse(is_mounted("/cache")=="/cache",unmount("/cache"));
 ifelse(is_mounted("/data")=="/data",unmount("/data"));
 ifelse(is_mounted("/system")=="/system",unmount("/system"));
+unmount("/system");
 set_progress(0.99);
-########################################
-ui_print("----XASP COMPLETED");
-######################################
+##########################################
+ui_print("----AKANE RWM INSTALL COMPLETED");
+##########################################
 set_progress(1.00);
