@@ -17,8 +17,8 @@
   We optimize Your Favorite ROM with Your beloved UI and we will take care of the Quality behind the Scenes. You will also explore extra functions
   in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
   unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
-#####  and there is always on thing in Mind:  QQ
-                                         QUALCOMM QUALITY
+#####  and there is always on thing in Mind:  
+                                            QUALCOMM QUALITY
 
 
 ##      PATCH REQUIREMENTS
