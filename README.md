@@ -3,6 +3,7 @@
   <img src="https://github.com/Miustone/xasp/blob/master/logo_transparent_new.png">
 </p>
 * Editor's note: Rebranding in progress. <br />
+
 ##      PATCH DESCRIPTION
 
   Before starting off, note this: <br />
