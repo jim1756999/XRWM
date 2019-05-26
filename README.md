@@ -31,7 +31,7 @@
 ##      DOWNLOADS
 
   The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
-  (The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for example.) 
+  The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for example
 
 
 ##      PATCH INSTALLATION INSTRUCTIONS
