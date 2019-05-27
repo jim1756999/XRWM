@@ -93,7 +93,7 @@ Get informed about Updates, talk with other Users, get help and have a good Time
 >[URL="https://t.me/joinchat/KpCtOBdVnxJ9eT8rVvf3tQ"]DISCUSSION[/URL]
 
 
-## CHANGELOGS
+## CHANGELOGS (https://github.com/Miustone/AKANE/commits/master)
 
 <b>XASP "NEXT"</b>
   * FIXED AUDIO ON MIUI (MEDIAPLAYBACK)
