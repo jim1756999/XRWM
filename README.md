@@ -78,6 +78,8 @@ You will get a Folder which contains all the Files of the Patch. Go inside of ME
 compress/replace all Files and Folders to/with gapps.zip expcept .gapps-config. Go back to Folder containing "META-INF" and compress
 it including the "install" Folder to a Standard Zip (Same as for the gapps.zip). You can now flash this this following the Instrcutions!
 
+Or just watch this Video:https://youtu.be/_abbpzh7-50
+
 
 <h5>STAY IN CONTACT</h5>
 <p align="center"><img src="https://github.com/Miustone/akane/blob/master/telegram.png"></p>
