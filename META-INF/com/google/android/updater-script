@@ -1,14 +1,14 @@
 show_progress(1.00,5);
 set_progress(0.00);
 ##########################################
-ui_print("-STARTING AKANE RWM INSTALLER");
+ui_print("-STARTING XRWM INSTALLER");
 ##########################################
 run_program("/sbin/sync");
 run_program("/sbin/sleep","1");
 ##########################################
 ui_print("--PREPARING FILESYSTEMS");
 ifelse(is_mounted("/system"), unmount("/system"));
-package_extract_dir("META-INF/com/google/android/akane/install", "/tmp/install");
+package_extract_dir("META-INF/com/google/android/xrwm/install", "/tmp/install");
 set_metadata_recursive("/tmp/install", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0644);
 set_metadata_recursive("/tmp/install/bin", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0755);
 mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system", "");
@@ -137,23 +137,23 @@ set_progress(0.30);
 ui_print("--EXTRACTING CONTENT");
 set_progress(0.40);
 ##########################################
-package_extract_dir("META-INF/com/google/android/akane/system","/system");
+package_extract_dir("META-INF/com/google/android/xrwm/system","/system");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/system","/system/system");
+package_extract_dir("META-INF/com/google/android/xrwm/system","/system/system");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/patch/prop","/tmp");
+package_extract_dir("META-INF/com/google/android/xrwm/patch/prop","/tmp");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/gapps","/tmp/gapps");
+package_extract_dir("META-INF/com/google/android/xrwm/gapps","/tmp/gapps");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/gapps/config","/tmp/gapps");
+package_extract_dir("META-INF/com/google/android/xrwm/gapps/config","/tmp/gapps");
 run_program("/sbin/sleep","1");
-package_extract_dir("META-INF/com/google/android/akane/patch/patch1","/tmp/patch1");
+package_extract_dir("META-INF/com/google/android/xrwm/patch/patch1","/tmp/patch1");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/patch/patch2","/tmp/patch2");
+package_extract_dir("META-INF/com/google/android/xrwm/patch/patch2","/tmp/patch2");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/magisk","/tmp/magisk");
+package_extract_dir("META-INF/com/google/android/xrwm/magisk","/tmp/magisk");
 run_program("/sbin/sleep","3");
-package_extract_dir("META-INF/com/google/android/akane/busybox","/tmp/busybox");
+package_extract_dir("META-INF/com/google/android/xrwm/busybox","/tmp/busybox");
 run_program("/sbin/sleep","3");
 set_progress(0.60);
 ##########################################
@@ -211,6 +211,6 @@ ifelse(is_mounted("/system")=="/system",unmount("/system"));
 unmount("/system");
 set_progress(0.99);
 ##########################################
-ui_print("----AKANE RWM INSTALL COMPLETED");
+ui_print("----XRWM INSTALL COMPLETED");
 ##########################################
 set_progress(1.00);

@@ -1,23 +1,23 @@
 <h1 align="center">MIUISTONE PRESENTS</h1>
-<h1 align="center">THE AKANE RWM</h1>
-<p align="center"><img src="https://github.com/Miustone/akane/blob/master/akane.png"></p>
+<h1 align="center">THE XIAOMI RWM</h1>
+<p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/xiaomi.png"></p>
 
 
-## AKANE RWM DESCRIPTION
+## XIAOMI RWM DESCRIPTION
 
 ####  BEFORE STARTING OFF, NOTE THIS:
-THE AKANE RWM IS NOT A MOD, MODULE OR A ROM. IT'S A RWM, AN READ-WRITE-MEMORY PACKAGE WHICH WORKS AS OPTIMIZATION ON TOP OF ROMS
+THE XIAOMI RWM IS NOT A MOD, MODULE OR A ROM. IT'S A RWM, AN READ-WRITE-MEMORY PACKAGE WHICH WORKS AS OPTIMIZATION ON TOP OF ROMS
   
 THIS PROJECT IS AIMING ON ENABLING THE HIGEST POSSIBLE QUALITY ON ALL EDGES OF ANDROID. BASED ON YEARS OF RESEARCH, TESTING AND BALANCING.
 RWM IS AN EXTENSION WHICH CAN BE INSTALLED ON TOP OF ANY ROM RUNNING ON XIAOMI DEVICES. MIUI OR AOSP, YOUR CHOICE! SELECT YOUR FAVORITE ROM,
-FLASH IT TOGETHER WITH THE AKANE RWM AND GIVE YOUR DEVICE A COMPLETE OVERHAUL UNDER THE UI. WE DON'T GIVE YOU FANCY UI FEATURES OR TOGGLES.
+FLASH IT TOGETHER WITH THE XIAOMI RWM AND GIVE YOUR DEVICE A COMPLETE OVERHAUL UNDER THE UI. WE DON'T GIVE YOU FANCY UI FEATURES OR TOGGLES.
 WE OPTIMIZE YOUR FAVORITE ROM WITH YOUR BELOVED UI AND WE WILL TAKE CARE OF THE QUALITY BEHIND THE SCENES. EVERYTHING NON ESSENTIAL IS OPTIONAL.
 YOU DON'T NEED TO CARE ABOUT ANYTHING AFTER THE FIRST INSTALL, JUST ENJOY! YOU WILL EXPLORE EXTRA FUNCTIONS IN THE SETTINGS OF YOUR ROMS AND APPS,
 A BETTER OVERALL AUDIO IN-/OUTPUT QUALITY ON ALL SOURCES, BETTER CONNECTIVITY OVER ALL CONNECTIONS, UNLOCKED DEVICE AND ANDROID FEATURES,
 A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONSTOP, AND THERE IS ALWAYS ON THING IN MIND:  QUALITY
 
 
-## AKANE RWM FEATURES
+## XIAOMI RWM FEATURES
   
 ####  NOTE: FEATURES MAY DEPEND ON THE ROM!
   
@@ -39,6 +39,7 @@ A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONST
   * ENHANCED DISPLAY SERVICE CONFIGS FOR SUPPORTED DEVICES
   * ENHANCED GPU RENDERING CONFIGS FOR UI AND APPS
   * ENHANCED OVERALL PERFORMANCE AND APP RESPONSIVENESS
+  * ENHANCED SECURITY SETTINGS STARTING ON THE SETUP WIZARD
   * FULL SAFETYNET CHECK PASSING
   * IMPROVED APP START-UP TIMES
   * IMPROVED BOOT AND SHUTDOWN TIMES
@@ -51,30 +52,30 @@ A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONST
   * AND MUCH MORE THAT YOU WILL FACE AT THE RIGH TIME!
 
 
-##      AKANE RWM REQUIREMENTS
+##      XIAOMI RWM REQUIREMENTS
 
 ##### An Android Device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
 ##### Your Device needs to have at least one of the following SoCs: Snapdragon 835 // 845 // 855
 ##### Requires a minimum of 4GB of RAM based on the included Multi Tasking Configs
 
 
-<h10>AKANE RWM INSTALLATION</h10>
+<h10>XIAOMI RWM INSTALLATION</h10>
 
   * Step 0: Install a Recovery Environment like TWRP and boot into it
   * Step 1: Wipe Dalvik Cache, Cache, System, Data (Be Careful)
   * Step 2: Install Your Favorite ROM (Go directly to Step 3)
-  * Step 3: Install the AKANE RWM (Go directly to Step 4)
+  * Step 3: Install the XIAOMI RWM (Go directly to Step 4)
   * Step 4: Reboot to the System
   * Done!
 
 <div align="center">
-<h5>AKANE RWM VERSIONS</h5>
+<h5>XIAOMI RWM VERSIONS</h5>
 
-<p align="center"><img src="https://github.com/Miustone/akane/blob/master/github.png"></p>
-You can get Nightly Builds from the AKANE RWM by downloading the Master Branch Zip from GitHub to a Device,
+<p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/github.png"></p>
+You can get Nightly Builds from the XIAOMI RWM by downloading the Master Branch Zip from GitHub to a Device,
 or follow the Link on the top of the GitHub Page to get Release Candidates with included GApps and other Extras.
 Before You can use Nightlies, is it essential to repack the Patch correctly. In order to do that extract the downloaded Zip File.
-You will get a Folder which contains all the Files of the Patch. Go inside of META-INF\com\google\android\akane\gapps,
+You will get a Folder which contains all the Files of the Patch. Go inside of META-INF\com\google\android\xrwm\gapps,
 compress/replace all Files and Folders to/with gapps.zip expcept .gapps-config. Go back to Folder containing "META-INF" and compress
 it including the "install" Folder to a Standard Zip (Same as for the gapps.zip). You can now flash this this following the Instrcutions!
 
@@ -82,13 +83,13 @@ Or just watch this Video:https://youtu.be/_abbpzh7-50
 
 
 <h5>STAY IN CONTACT</h5>
-<p align="center"><img src="https://github.com/Miustone/akane/blob/master/telegram.png"></p>
+<p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/telegram.png"></p>
 Get informed about Updates, talk with other Users, get help and have a good Time with XASP on the Official Groups: 
 >[URL="https://t.me/xaspupdates"]UPDATES[/URL]<
 >[URL="https://t.me/joinchat/KpCtOBdVnxJ9eT8rVvf3tQ"]DISCUSSION[/URL]
 </div>
 
-## <a href="https://github.com/Miustone/AKANE/commits/master">CHANGELOGS</a>
+## <a href="https://github.com/Miustone/XRWM/commits/master">CHANGELOGS</a>
 
 <b>XASP "NEXT"</b>
   * FIXED AUDIO ON MIUI (MEDIAPLAYBACK)
