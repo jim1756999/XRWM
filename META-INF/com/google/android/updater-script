@@ -8,7 +8,7 @@ run_program("/sbin/sleep","1");
 ##########################################
 ui_print("--PREPARING FILESYSTEMS");
 ifelse(is_mounted("/system"), unmount("/system"));
-package_extract_dir("install", "/tmp/install");
+package_extract_dir("META-INF/com/google/android/akane/install", "/tmp/install");
 set_metadata_recursive("/tmp/install", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0644);
 set_metadata_recursive("/tmp/install/bin", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0755);
 mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system", "");
@@ -145,6 +145,8 @@ package_extract_dir("META-INF/com/google/android/akane/patch/prop","/tmp");
 run_program("/sbin/sleep","3");
 package_extract_dir("META-INF/com/google/android/akane/gapps","/tmp/gapps");
 run_program("/sbin/sleep","3");
+package_extract_dir("META-INF/com/google/android/akane/gapps/config","/tmp/gapps");
+run_program("/sbin/sleep","1");
 package_extract_dir("META-INF/com/google/android/akane/patch/patch1","/tmp/patch1");
 run_program("/sbin/sleep","3");
 package_extract_dir("META-INF/com/google/android/akane/patch/patch2","/tmp/patch2");

@@ -1,4 +1,0 @@
-<permissions>
-    <!-- Support Zero Touch Provisioning. -->
-    <feature name="com.google.android.feature.ZERO_TOUCH" />
-</permissions>
