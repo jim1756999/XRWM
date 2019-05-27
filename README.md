@@ -72,21 +72,20 @@ A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONST
 <h5>XIAOMI RWM VERSIONS</h5>
 
 <p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/github.png"></p>
-You can get Nightly Builds from the XIAOMI RWM by downloading the Master Branch Zip from GitHub to a Device,
-or follow the Link on the top of the GitHub Page to get Release Candidates with included GApps and other Extras.
-Before You can use Nightlies, is it essential to repack the Patch correctly. In order to do that extract the downloaded Zip File.
-You will get a Folder which contains all the Files of the Patch. Go inside of META-INF\com\google\android\xrwm\gapps,
-compress/replace all Files and Folders to/with gapps.zip expcept .gapps-config. Go back to Folder containing "META-INF" and compress
-it including the "install" Folder to a Standard Zip (Same as for the gapps.zip). You can now flash this this following the Instrcutions!
+Stable Releases can be found on My Website (Link on top of the XRWM GitHub Repository)
+If You want bleeding Edge Builds alias Nighlies, just watch the following Video, or for the advanced Users:
+Decompress the Master Branch ZIP, Repack the Files inside the GApps folder and keep the Configs Folder where it is.
+Go back to the Directory which contains META-INF and the other Files and compress the META-INF Folder to a ZIP.
+The ZIP should include the META-INF Folder as Root Directory. If this is the Case can the ZIP be flashed!
 
-Or just watch this Video:https://youtu.be/_abbpzh7-50
+Video for Beginners: https://youtu.be/_abbpzh7-50
 
 
 <h5>STAY IN CONTACT</h5>
 <p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/telegram.png"></p>
-Get informed about Updates, talk with other Users, get help and have a good Time with XASP on the Official Groups: 
->[URL="https://t.me/xaspupdates"]UPDATES[/URL]<
->[URL="https://t.me/joinchat/KpCtOBdVnxJ9eT8rVvf3tQ"]DISCUSSION[/URL]
+Get informed about Updates, talk with other Users, get help and have a good Time with XRWM on the Official Groups: 
+>[URL="https://t.me/xrwmu"]UPDATES[/URL]<
+>[URL="https://t.me/xrwmc"]CHAT[/URL]
 </div>
 
 ## <a href="https://github.com/Miustone/XRWM/commits/master">CHANGELOGS</a>
