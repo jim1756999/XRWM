@@ -73,7 +73,7 @@ A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONST
 
 <p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/github.png"></p>
 Stable Releases (Released once per Month) can be found on My Website https://sites.google.com/view/miustone/HOME.
-If You want bleeding Edge Builds alias Nighlies, just watch the following Video, or for the more advanced Users:
+If You want bleeding Edge Builds alias Nighlies, just watch the Video for Beginners, or for the more advanced Users:
 Decompress the Master Branch ZIP, Compress the Files inside the "gapps" folder to a ZIP and keep the Configs Folder where it is.
 Go back to the Directory which contains META-INF and the other Files and compress the META-INF Folder to a ZIP.
 The ZIP should include the META-INF Folder as Root Directory. If this is the Case can the ZIP be flashed!
