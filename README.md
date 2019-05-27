@@ -17,28 +17,46 @@
   in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
   unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
 #####  and there is always on thing in Mind:  
-                                            QUALCOMM QUALITY
+                                            QUALITY
 
 
-##      PATCH REQUIREMENTS
+##      AKANE RWM REQUIREMENTS
 
 ##### An Android Device running Android 9.0 (AOSP ARM64 or MIUI ARM64)
 ##### Your Device needs to have at least one of the following SoCs: Snapdragon 835 // 845 // 855
 ##### Requires a minimum of 4GB of RAM based on the included Multi Tasking Configs
 
 
-##      DOWNLOADS
+##      AKANE RWM DOWNLOADS
 
   The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
   The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for example
 
 
-##      PATCH INSTALLATION INSTRUCTIONS
+##      AKANE RWM INSTALLATION
 
-  * Fully wipe your device in the TWRP Recovery (Dalvik cache, Cache, System, Data.)
-  * Install an Android Pie operating system based off of the supported systems.
-  * Install Akane without booting the system up.
-  * Reboot.
+  * Step 0: Install a Recovery Environment like TWRP and boot into it
+  * Step 1: Wipe Dalvik Cache, Cache, System, Data (Be Careful)
+  * Step 2: Install Your Favorite ROM (Go directly to Step 3)
+  * Step 3: Install the AKANE RWM (Go directly to Step 4)
+  * Step 4: Reboot to the System
+  * Done!
+
+
+##      GITHUB NIGHTLY INSTRUCTIONS
+
+<p align="center"><img src="https://github.com/Miustone/akane/blob/master/github.png"></p>
+You can get Nightly Builds from the AKANE RWM by downloading the Master Branch Zip from GitHub to a Device,
+or follow the Link on the top of the GitHub Page to get Release Candidates with included GApps and other Extras.
+Before You can use Nightlies, is it essential to repack the Patch correctly. In order to do that extract the downloaded Zip File.
+You will get a Folder which contains all the Files of the Patch. Go inside of this Folder and pack all Files into a compressed standard Zip.
+I recommend 7zip/Bandizip on Windows and Rar on Android to do that.
+
+##      STAY IN CONTACT
+<p align="center"><img src="https://github.com/Miustone/akane/blob/master/telegram.png"></p>
+Get informed about Updates, talk with other Users, get help and have a good Time with XASP on the Official Groups: 
+>[URL="https://t.me/xaspupdates"]UPDATES[/URL]<
+>[URL="https://t.me/joinchat/KpCtOBdVnxJ9eT8rVvf3tQ"]DISCUSSION[/URL]
 
 
 ##      INCLUDED FEATURES
