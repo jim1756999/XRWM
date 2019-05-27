@@ -1,28 +1,27 @@
 <h1 align="center">MIUISTONE PRESENTS</h1>
-
 <h1 align="center">THE AKANE RWM</h1>
 <p align="center"><img src="https://github.com/Miustone/akane/blob/master/akane.png"></p>
 
-* Editor's Note: Rebranding in Progress
+* EDITOR'S NOTE: REBRANDING IN PROGRESS
 
 <div align="center">
 <h5>  AKANE RWM DESCRIPTION </5>
-
-<h3>  Before starting off, note this: </h3>
-      Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs
-  
-      This Project is aiming on the higest possible Quality in all Edges of a Android OS. Based on Years of research, testing and balancing.
-      RWM is an Extension which can be installed on top of any ROM running on Xiaomi Devices. MIUI or AOSP, Your Choice! Select Your Favorite ROM,
-      flash it together with the Akane RWM and give Your Device a complete overhaul under the UI. We don't give You fancy UI Features or Toggles.
-      We optimize Your Favorite ROM with Your beloved UI and we will take care of the Quality behind the Scenes. You will also explore extra functions
-      in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
-      unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
-      and there is always on thing in Mind:  QUALITY
 </div>
+<h3>  BEFORE STARTING OFF, NOTE THIS: </H3>
+AKANE IS NOT A MOD, MODULE OR A ROM. IT'S A RWM, AN READ-WRITE-MEMORY PACKAGE WHICH WORKS AS OPTIMIZATION ON ROMS
+  
+THIS PROJECT IS AIMING ON THE HIGEST POSSIBLE QUALITY IN ALL EDGES OF A ANDROID OS. BASED ON YEARS OF RESEARCH, TESTING AND BALANCING.
+RWM IS AN EXTENSION WHICH CAN BE INSTALLED ON TOP OF ANY ROM RUNNING ON XIAOMI DEVICES. MIUI OR AOSP, YOUR CHOICE! SELECT YOUR FAVORITE ROM,
+FLASH IT TOGETHER WITH THE AKANE RWM AND GIVE YOUR DEVICE A COMPLETE OVERHAUL UNDER THE UI. WE DON'T GIVE YOU FANCY UI FEATURES OR TOGGLES.
+WE OPTIMIZE YOUR FAVORITE ROM WITH YOUR BELOVED UI AND WE WILL TAKE CARE OF THE QUALITY BEHIND THE SCENES. YOU WILL ALSO EXPLORE EXTRA FUNCTIONS
+IN THE SETTINGS OF YOUR ROMS AND APPS, A BETTER OVERALL AUDIO IN-/OUTPUT QUALITY ON ALL SOURCES, BETTER CONNECTIVITY OVER ALL CONNECTIONS,
+UNLOCKED DEVICE AND ANDROID FEATURES, A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONSTOP,
+AND THERE IS ALWAYS ON THING IN MIND:  QUALITY
+
 
 ##      AKANE RWM FEATURES
   
-####  NOTE: Features may depend on the ROM!
+####  NOTE: FEATURES MAY DEPEND ON THE ROM!
   
   * ADVANCED GRID RECENTS WITH MULTI/SPLIT WINDOW SUPPORT
   * BATTERY CALIBRATION AFTER EACH CHARGE
