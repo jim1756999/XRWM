@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<strong> AKANE RWM DESCRIPTION
+<h3> AKANE RWM DESCRIPTION </h3>
 
   Before starting off, note this: <br />
   Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs. <br />
