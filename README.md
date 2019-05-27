@@ -83,8 +83,10 @@
 You can get Nightly Builds from the AKANE RWM by downloading the Master Branch Zip from GitHub to a Device,
 or follow the Link on the top of the GitHub Page to get Release Candidates with included GApps and other Extras.
 Before You can use Nightlies, is it essential to repack the Patch correctly. In order to do that extract the downloaded Zip File.
-You will get a Folder which contains all the Files of the Patch. Go inside of this Folder and pack all Files into a compressed standard Zip.
-I recommend 7zip/Bandizip on Windows and Rar on Android to do that.
+You will get a Folder which contains all the Files of the Patch. Go inside of META-INF\com\google\android\akane\gapps,
+compress/replace all Files and Folders to/with gapps.zip expcept .gapps-config. Go back to Folder containing "META-INF" and compress
+it including the "install" Folder to a Standard Zip (Same as for the gapps.zip). You can now flash this this following the Instrcutions!
+
 
 <h5>STAY IN CONTACT</h5>
 <p align="center"><img src="https://github.com/Miustone/akane/blob/master/telegram.png"></p>
