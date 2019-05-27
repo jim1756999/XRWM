@@ -72,7 +72,7 @@ A ABSOLUTELY FLUID AND PERFORMANT OS AND SO MUCH MORE. THE LIST IS GROWING NONST
 <h5>XIAOMI RWM VERSIONS</h5>
 
 <p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/github.png"></p>
-Stable Releases can be found on My Website (Link on top of the XRWM GitHub Repository)
+Stable Releases can be found on My Website (Link on top of the XRWM GitHub Repository).
 If You want bleeding Edge Builds alias Nighlies, just watch the following Video, or for the advanced Users:
 Decompress the Master Branch ZIP, Repack the Files inside the GApps folder and keep the Configs Folder where it is.
 Go back to the Directory which contains META-INF and the other Files and compress the META-INF Folder to a ZIP.
