@@ -60,12 +60,6 @@
 ##### Your Device needs to have at least one of the following SoCs: Snapdragon 835 // 845 // 855
 ##### Requires a minimum of 4GB of RAM based on the included Multi Tasking Configs
 
-<div align="center">
-<h10>AKANE RWM DOWNLOADS</h10>
-
-  The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
-  The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for Example
-</div>
 
 <h10>AKANE RWM INSTALLATION</h10>
 
