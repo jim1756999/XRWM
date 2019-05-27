@@ -6,10 +6,10 @@
 * Editor's Note: Rebranding in Progress
 
 <div align="center">
-<h5>AKANE RWM DESCRIPTION</h5>
+<h10>AKANE RWM DESCRIPTION</h10>
 
 <h3>  Before starting off, note this: </h3>
-      Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs. <br />
+      Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs
   
       This Project is aiming on the higest possible Quality in all Edges of a Android OS. Based on Years of research, testing and balancing.
       RWM is an Extension which can be installed on top of any ROM running on Xiaomi Devices. MIUI or AOSP, Your Choice! Select Your Favorite ROM,
@@ -61,13 +61,13 @@
 ##### Requires a minimum of 4GB of RAM based on the included Multi Tasking Configs
 
 <div align="center">
-<h5>AKANE RWM DOWNLOADS</h5>
+<h10>AKANE RWM DOWNLOADS</h10>
 
   The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
   The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for Example
 </div>
 
-<h5>AKANE RWM INSTALLATION</h5>
+<h10>AKANE RWM INSTALLATION</h10>
 
   * Step 0: Install a Recovery Environment like TWRP and boot into it
   * Step 1: Wipe Dalvik Cache, Cache, System, Data (Be Careful)
