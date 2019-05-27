@@ -2,22 +2,22 @@
 
 <h1 align="center">THE AKANE RWM</h1>
 <p align="center"><img src="https://github.com/Miustone/akane/blob/master/akane.png"></p>
-* Editor's note: Rebranding in Progress. <br />
 
+* Editor's Note: Rebranding in Progress
 
 <div align="center">
-<h3> AKANE RWM DESCRIPTION </h3>
+<h5>AKANE RWM DESCRIPTION</h5>
 
-  Before starting off, note this: <br />
-  Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs. <br />
+<h3>  Before starting off, note this: </h3>
+      Akane is not a Mod, Module or a ROM. It's a RWM, an Read-Write-Memory Package which works as optimization on ROMs. <br />
   
-  This Project is aiming on the higest possible Quality in all Edges of a Android OS. Based on Years of research, testing and balancing.
-  RWM is an Extension which can be installed on top of any ROM running on Xiaomi Devices. MIUI or AOSP, Your Choice! Select Your Favorite ROM,
-  flash it together with the Akane RWM and give Your Device a complete overhaul under the UI. We don't give You fancy UI Features or Toggles.
-  We optimize Your Favorite ROM with Your beloved UI and we will take care of the Quality behind the Scenes. You will also explore extra functions
-  in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
-  unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
-  and there is always on thing in Mind:  QUALITY
+      This Project is aiming on the higest possible Quality in all Edges of a Android OS. Based on Years of research, testing and balancing.
+      RWM is an Extension which can be installed on top of any ROM running on Xiaomi Devices. MIUI or AOSP, Your Choice! Select Your Favorite ROM,
+      flash it together with the Akane RWM and give Your Device a complete overhaul under the UI. We don't give You fancy UI Features or Toggles.
+      We optimize Your Favorite ROM with Your beloved UI and we will take care of the Quality behind the Scenes. You will also explore extra functions
+      in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
+      unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
+      and there is always on thing in Mind:  QUALITY
 </div>
 
 ##      AKANE RWM FEATURES
@@ -60,11 +60,11 @@
 ##### Your Device needs to have at least one of the following SoCs: Snapdragon 835 // 845 // 855
 ##### Requires a minimum of 4GB of RAM based on the included Multi Tasking Configs
 
-
-##      AKANE RWM DOWNLOADS
+<div align="center">
+<h5>AKANE RWM DOWNLOADS</h5>
 
   The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
-  The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for example
+  The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for Example
 
 
 ##      AKANE RWM INSTALLATION
@@ -91,7 +91,7 @@ I recommend 7zip/Bandizip on Windows and Rar on Android to do that.
 Get informed about Updates, talk with other Users, get help and have a good Time with XASP on the Official Groups: 
 >[URL="https://t.me/xaspupdates"]UPDATES[/URL]<
 >[URL="https://t.me/joinchat/KpCtOBdVnxJ9eT8rVvf3tQ"]DISCUSSION[/URL]
-
+</div>
 
 ## <a href="https://github.com/Miustone/AKANE/commits/master">CHANGELOGS</a>
 
