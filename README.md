@@ -5,6 +5,7 @@
 * Editor's note: Rebranding in Progress. <br />
 
 
+<div align="center">
 ##      AKANE RWM DESCRIPTION
 
   Before starting off, note this: <br />
@@ -16,9 +17,8 @@
   We optimize Your Favorite ROM with Your beloved UI and we will take care of the Quality behind the Scenes. You will also explore extra functions
   in the Settings of Your ROMs and Apps, a better overall Audio In-/Output Quality on all Sources, better Connectivity over all Connections,
   unlocked Device and Android Features, a absolutely fluid and performant OS and so much more. The List is growing nonstop,
-  and there is always on thing in Mind:  
-####                                   QUALITY
-
+  and there is always on thing in Mind:  QUALITY
+</div>
 
 ##      AKANE RWM FEATURES
   
@@ -93,7 +93,7 @@ Get informed about Updates, talk with other Users, get help and have a good Time
 >[URL="https://t.me/joinchat/KpCtOBdVnxJ9eT8rVvf3tQ"]DISCUSSION[/URL]
 
 
-## CHANGELOGS (https://github.com/Miustone/AKANE/commits/master)
+## <a href="https://github.com/Miustone/AKANE/commits/master">CHANGELOGS</a>
 
 <b>XASP "NEXT"</b>
   * FIXED AUDIO ON MIUI (MEDIAPLAYBACK)
