@@ -1,6 +1,6 @@
 <h1 align="center">MIUISTONE PRESENTS</h1>
 <h1 align="center">THE XIAOMI RWM</h1>
-<p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/xiaomi.png"></p>
+<p align="center"><img src="https://github.com/Miustone/xrwm/blob/master/xrwm.png"></p>
 
 
 ## XIAOMI RWM DESCRIPTION
