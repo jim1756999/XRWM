@@ -65,9 +65,9 @@
 
   The latest Version can be found at: https://sites.google.com/view/miustone/RELEASES <br /> 
   The AROMA Installer works for older Devices, the AROMA-less one for newer, Mi 9, for Example
+</div>
 
-
-##      AKANE RWM INSTALLATION
+<h5>AKANE RWM INSTALLATION</h5>
 
   * Step 0: Install a Recovery Environment like TWRP and boot into it
   * Step 1: Wipe Dalvik Cache, Cache, System, Data (Be Careful)
@@ -76,8 +76,8 @@
   * Step 4: Reboot to the System
   * Done!
 
-
-##      GITHUB NIGHTLY INSTRUCTIONS
+<div align="center">
+<h5>AKANE RWM VERSIONS</h5>
 
 <p align="center"><img src="https://github.com/Miustone/akane/blob/master/github.png"></p>
 You can get Nightly Builds from the AKANE RWM by downloading the Master Branch Zip from GitHub to a Device,
@@ -86,7 +86,7 @@ Before You can use Nightlies, is it essential to repack the Patch correctly. In 
 You will get a Folder which contains all the Files of the Patch. Go inside of this Folder and pack all Files into a compressed standard Zip.
 I recommend 7zip/Bandizip on Windows and Rar on Android to do that.
 
-##      STAY IN CONTACT
+<h5>STAY IN CONTACT</h5>
 <p align="center"><img src="https://github.com/Miustone/akane/blob/master/telegram.png"></p>
 Get informed about Updates, talk with other Users, get help and have a good Time with XASP on the Official Groups: 
 >[URL="https://t.me/xaspupdates"]UPDATES[/URL]<
